@@ -32,12 +32,12 @@ Projeto de desafio da Hotmart
 
 ## Executar projeto 
 - npm start ou 
--
+
 - gerar publicação npm run build
 
 ## Publicação testada no iis 7.5 local e na publicação do Heroku
 
-## Site publica em https://ricardoaraujohotmart.herokuapp.com
+## Site publicado em https://ricardoaraujohotmart.herokuapp.com
 
 ## Autor
 Ricardo Araujo Silva Moreira
