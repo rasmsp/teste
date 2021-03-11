@@ -15,28 +15,29 @@ Projeto de desafio da Hotmart
 
 ## Instalação
 
-###Utilitários 
+### Utilitários 
 
 - npm i -S @fortawesome/fontawesome-svg-core @fortawesome/react-fontawesome @fortawesome/free-regular-svg-icons @fortawesome/free-solid-svg-icons @fortawesome/free-brands-svg-icons
 
 - npm install react-bootstrap bootstrap
 
-###Configuração de análise do código
+### Configuração de análise do código
 
 - npm i eslint -D
-- 
+
 - npx eslint --init
-- 
+
 - npm i prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
 
 
 ## Executar projeto 
 - npm start ou 
+-
 - gerar publicação npm run build
 
 ## Publicação testada no iis 7.5 local e na publicação do Heroku
 
 ## Site publica em https://ricardoaraujohotmart.herokuapp.com
 
-##Autor
+## Autor
 Ricardo Araujo Silva Moreira
