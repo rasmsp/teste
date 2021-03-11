@@ -1,0 +1,8 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    background-color: #f4f6fa;
+}
+*{
+    font-family: NunitoSans;
+}

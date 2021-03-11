@@ -1,0 +1,102 @@
+ .expense-card{
+   
+    border-radius: 6px;
+    border-style: solid;
+    border-width: 1px;
+    width: 100%;
+    margin-right: 0;
+   
+}
+
+.expense-card-body{
+    border-radius: 6px;
+    background: #FFFFFF;
+}
+
+.expense-file-card-body{
+    border-radius: 6px;
+    background: #FAFBFD;
+
+}
+
+.btn-save,.btn-save:hover,.btn-save:focus{
+    width: 69px;
+    height: 36px;
+    margin: 0 0 0 24px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    background-color: #51c1c3;
+    letter-spacing: normal;
+    color: #ffffff;    
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    outline: none;
+    box-shadow: none;
+}
+
+.btn-cancel,.btn-cancel:hover,.btn-cancel:focus{
+    width: 95px;
+    height: 36px;
+    margin: 0 0 0 24px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    background-color: #FFFFFF;
+    letter-spacing: normal;
+    color: #51c1c3;    
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    border-color: #51c1c3;
+    outline: none;
+    box-shadow: none;
+}
+.upload-button-block {
+    width: 200px;
+    height: 36px;
+    border-radius: 6px;
+    border: solid 1px #6b7480;
+    background-color: #ffffff;
+    text-align: center;
+    margin-top: 5px;
+  }
+
+.upload-button {
+   
+    background-color: transparent;
+    border-color: transparent;
+    padding: 3px;
+    color: #7E7F81;
+    font-weight: 600;
+   
+  }
+
+  .upload-title{
+    color: #7A7B7D;
+    font-weight: 800;
+  }
+
+  .upload-info{
+       color: #7A7B7D;
+       font-weight: 600;
+       font-size: 14px;
+       padding: 5px;
+  }
+
+  .upload-field-title{
+    color: #7A7B7D;
+    font-weight: 800;
+    margin-bottom: 5px;
+    font-size: 14px;
+  }
+  .upload-field-row{
+      margin-bottom: 10px;
+  }
+  .placeholder-text{
+    
+    font-size: 14px;
+  }

@@ -1,0 +1,137 @@
+.timeline-row{
+    padding-bottom: 10px;
+    
+}
+
+
+.timeline-card{   
+    border-radius: 6px;   
+    border-width: 1px;    
+    box-shadow: 2px 2px 2px #ecedf0;  
+   
+}
+
+.timeline-card-body{
+    border-radius: 6px;
+    background: #FFFFFF;
+}
+
+.circle {
+
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin: 10px 3px 0;
+    text-align: center;
+ 
+}
+.circle-purple{
+    background: #EFEBF9;  
+}
+
+.circle-blue{
+    background: #E6F2FC;  
+}
+
+.circle-icon{
+    margin-top: 22px;
+}
+
+.circle-icon-purple{
+    color: #CABEED
+}
+
+.circle-icon-blue{
+    color: #0D65BC
+}
+
+.date{
+    width: 76px;
+    height: 19px;
+    margin: 10px 0 0;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #999999;
+}
+
+.timeline-title{
+   
+    font-size: 12px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #d0d3d6;
+}
+
+.timeline-value{
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #545b64;
+}
+
+.timeline-additional{
+    margin-top: 5px;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #999999;
+}
+
+.status-block{
+    border-radius: 10px;   
+    border-width: 1px;      
+    border: solid 1px #03a046;   
+    color:#03a046;
+    background-color: #e6fff0;
+    text-align: center;
+    width: 70px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 2px;   
+}
+
+.status-other{
+    border-radius: 10px;   
+    border-width: 1px;      
+    border: solid 1px #92979D;   
+    color: #92979D;
+    background-color: #F1F4F8;
+    text-align: center;
+    width: 70px;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+
+.view-info{
+   
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #51c1c3;
+    cursor: pointer;
+}
+
+.column{
+    padding-top: 15px;
+}

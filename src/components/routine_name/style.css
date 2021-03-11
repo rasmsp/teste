@@ -1,0 +1,25 @@
+.breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    padding: .75rem 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
+    background-color: #FFFFFF;
+    border-radius: 0;
+    border-bottom: 2px solid  #f3f3f3;
+}
+.breadcrum-disabled{
+    color:#cccccc !important;
+    font-weight: bolder;
+}
+.breadcrum-enabled{
+    color:#000000 !important;
+    font-weight: bolder;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    float: left;
+    padding-right: .5rem;
+    color: #78beb4;
+    content: "/";
+}

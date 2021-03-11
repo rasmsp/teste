@@ -1,0 +1,167 @@
+.center{
+    display: flex;
+    justify-content: center;    
+}
+
+.header-divisor{    
+
+    position: relative;
+    padding: 10px 20px;
+    
+}
+
+.header-divisor:after {
+    content: '';
+    position: absolute;
+    left: 0px;
+    top: 10%;
+    height: 60%;
+    border-left: 1px solid #D3D3D3;
+  }
+
+  .balance-extract-divider{    
+    margin-top: 20px;   
+    border-bottom: solid 1px #D2D2D2 ;  
+    width: 100%;
+}
+
+.status-card{   
+    border-radius: 6px;   
+    border-width: 1px;      
+    border: solid 1px #009d43;
+    margin-bottom: 15px;   
+}
+
+.balance-card{   
+    border-radius: 6px;   
+    border-width: 1px;    
+    margin-bottom: 10px;  
+   
+}
+
+.balance-card-body{
+    border-radius: 6px;
+    background: #FFFFFF;
+}
+
+.status-card-body{
+    border-radius: 6px;
+    background: #edfff5;
+}
+
+.status-title{
+    font-size: 16px;
+    color: #053d4e;
+}
+.status-value{
+    font-size: 16px;
+    color: #48BA7E;
+    font-size: 24px;
+    font-weight: bold;
+}
+.balance-title{
+  width: 128px;
+  height: 21px;
+  margin: 0 12px 12px;  
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #6b7480; 
+}
+.balance-value{
+
+    width: 152px;
+    height: 32px;
+    margin: 12px 0 0;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #053d4e;
+}
+
+.resume-title{
+    
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;  
+    color:#E7E7E7;
+}
+.resume-value{
+   
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #32363b;
+}
+.extract-title{   
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #353a40;
+}
+
+.extract-item-title{
+    height: 21px;
+    margin: 25px 21px 8px 0;   
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    color: #053d4e;
+}
+
+.extract-item-value{
+    width: 136px;
+    height: 21px;
+    margin: 8px 118px 4px 0;
+    font-family: NunitoSans;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #053d4e;
+}
+
+.extract-item-info{
+    font-size: 12px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #DDDEE0;
+}
+
+.extract-item-value-payment{
+    width: 136px;
+    height: 21px;
+    margin: 8px 118px 4px 0;
+    font-family: NunitoSans;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #4acc82;
+}
