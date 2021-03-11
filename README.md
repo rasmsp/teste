@@ -1,4 +1,4 @@
-# hotmart_projeto
+# Hotmart projeto
 Projeto de desafio da Hotmart
 
 ## Ferramentas utilizadas
