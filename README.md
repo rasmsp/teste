@@ -1,6 +1,6 @@
 # Hotmart projeto
 
-Projeto de desafio da Hotmart
+Projeto de desafio de teste
 
 ## Ferramentas utilizadas
 
