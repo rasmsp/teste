@@ -43,4 +43,4 @@ Projeto de desafio de teste555
 ## Site publicado em https://ricardoaraujohotmart.herokuapp.com
 
 ## Autor
-Ricardo Araujo Silva Moreira
+Ricardo Araujo Silva Moreiraa

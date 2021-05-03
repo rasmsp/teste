@@ -1,0 +1,141 @@
+[33mcommit 9e5bedc5b6060156f8d577a94ec29fa4485c109a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ricardo Araújo <ricardo.araujo@jrmendonca.com.br>
+Date:   Sun May 2 20:56:59 2021 -0300
+
+    a
+
+[33mcommit 8e4b30f701ccf6f80231c02c8862ede8758866c9[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 9368ef6 3df0846
+Author: rasmsp <39194869+rasmsp@users.noreply.github.com>
+Date:   Fri Apr 23 14:10:29 2021 -0300
+
+    Merge pull request #5 from rasmsp/revert-4-ba2
+    
+    Revert "mudei pra 1"
+
+[33mcommit 3df08462ed04e8707addc62d6499b2ff40368f7c[m[33m ([m[1;31morigin/revert-4-ba2[m[33m)[m
+Author: rasmsp <39194869+rasmsp@users.noreply.github.com>
+Date:   Fri Apr 23 14:09:57 2021 -0300
+
+    Revert "mudei pra 1"
+
+[33mcommit 9368ef65295ce27501845d4fd89bbfa6ccc11675[m
+Merge: 51bf2e9 d18fadc
+Author: rasmsp <39194869+rasmsp@users.noreply.github.com>
+Date:   Fri Apr 23 14:09:11 2021 -0300
+
+    Merge pull request #4 from rasmsp/ba2
+    
+    mudei pra 1
+
+[33mcommit d18fadce73b918368451de1da87dff1b9384cd68[m[33m ([m[1;31morigin/ba2[m[33m)[m
+Author: Ricardo Araujo <ricardo.araujo@hotmart.com>
+Date:   Fri Apr 23 14:03:02 2021 -0300
+
+    1
+
+[33mcommit 51bf2e9088824244bb9537a80b9d4aeec267fdc4[m
+Merge: f58a03c 6f95170
+Author: ricardoaraujo-hotmart <82816359+ricardoaraujo-hotmart@users.noreply.github.com>
+Date:   Fri Apr 23 13:56:27 2021 -0300
+
+    Merge pull request #3 from rasmsp/ba2
+    
+    pode ser 555
+
+[33mcommit 6f951707cea96d6406591abe79a2a8c168175f93[m
+Author: Ricardo Araujo <ricardo.araujo@hotmart.com>
+Date:   Fri Apr 23 13:49:39 2021 -0300
+
+    555
+
+[33mcommit f58a03c9102c1b5103724a69594df9c10314ae79[m
+Merge: b299043 a38397b
+Author: Ricardo Araujo <ricardo.araujo@hotmart.com>
+Date:   Fri Apr 23 13:41:32 2021 -0300
+
+    444novo
+
+[33mcommit b299043f1f2fa5212d48d5bfb696efe733bdde98[m
+Author: Ricardo Araujo <ricardo.araujo@hotmart.com>
+Date:   Fri Apr 23 13:40:25 2021 -0300
+
+    444
+
+[33mcommit a38397b04f5e3258ef0dffa4080c1816a29995a5[m
+Merge: 3ff5bf4 62834b5
+Author: rasmsp <39194869+rasmsp@users.noreply.github.com>
+Date:   Fri Apr 23 13:29:34 2021 -0300
+
+    Merge pull request #2 from rasmsp/ba1
+    
+    teste
+
+[33mcommit 62834b547d6d7bfc943f44b8f8721ad87912e99e[m
+Author: Ricardo Araujo <ricardo.araujo@hotmart.com>
+Date:   Fri Apr 23 13:01:27 2021 -0300
+
+    teste
+
+[33mcommit 3ff5bf40193074fd3838da8535ae3a33e3ffe076[m
+Merge: 9a7ba16 fda0c55
+Author: rasmsp <39194869+rasmsp@users.noreply.github.com>
+Date:   Thu Apr 22 11:31:00 2021 -0300
+
+    Merge pull request #1 from ricardoaraujo-hotmart/ba1
+    
+    ok go
+
+[33mcommit fda0c55065b09de3caf793e96d273871bd991fa8[m
+Author: Ricardo Araujo <ricardo.araujo@hotmart.com>
+Date:   Thu Apr 22 11:25:45 2021 -0300
+
+    ok go
+
+[33mcommit 9a7ba1611e64cfa3d248d3316d5f3930c37de4a9[m
+Author: rasmsp <39194869+rasmsp@users.noreply.github.com>
+Date:   Wed Mar 10 23:10:07 2021 -0300
+
+    Update README.md
+
+[33mcommit 29970d6c1a7113bcf20a4dc075e5d59ef87241fe[m
+Author: rasmsp <39194869+rasmsp@users.noreply.github.com>
+Date:   Wed Mar 10 23:09:24 2021 -0300
+
+    Update README.md
+
+[33mcommit 91c114fb167f421390168bb021a7395ea2e279dd[m
+Author: rasmsp <39194869+rasmsp@users.noreply.github.com>
+Date:   Wed Mar 10 23:07:51 2021 -0300
+
+    Update README.md
+
+[33mcommit 55cf96daa97609f007809adf7fe506ecbb5f5886[m
+Author: rasmsp <39194869+rasmsp@users.noreply.github.com>
+Date:   Wed Mar 10 23:06:19 2021 -0300
+
+    Update README.md
+
+[33mcommit 6af1e325c4b91b0c5c5e08753ae5092bd8678bec[m
+Author: rasmsp <39194869+rasmsp@users.noreply.github.com>
+Date:   Wed Mar 10 23:05:58 2021 -0300
+
+    Update README.md
+
+[33mcommit eb1e22284f53a47555c74ca3a2394f5b6f444fc3[m
+Author: rasmsp <39194869+rasmsp@users.noreply.github.com>
+Date:   Wed Mar 10 23:05:04 2021 -0300
+
+    Update README.md
+
+[33mcommit 8878aee730c6b01ac2c1627eca179c9f9f8a653e[m
+Author: Ricardo Araújo <ricardo.araujo@jrmendonca.com.br>
+Date:   Wed Mar 10 22:20:35 2021 -0300
+
+    .
+
+[33mcommit 723977a78a74a903489a83b6486f86aec7c6540f[m
+Author: Ricardo Araújo <ricardo.araujo@jrmendonca.com.br>
+Date:   Wed Mar 10 21:57:29 2021 -0300
+
+    .
